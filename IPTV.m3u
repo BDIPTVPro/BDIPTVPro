@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg",Gazi TV  (BDWatch)
-http://103.70.140.27:8080/hls/gtv.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/5PsRkPd.png",ATN Bangla (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.ebox.live/assets/images/108.jpg",ATN News (BDIX0)
@@ -59,8 +57,6 @@ https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 http://103.106.2.149:13456/sangsad.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg",Shomoy TV (BDIX0)
 http://tempskyview.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD (BDWatch)
-http://103.70.140.27:8080/hls/tsports.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://amrbd.com/assets/images/tsports.jpg",T sports (BDIX5)
 http://103.102.27.172:6464/Channel-2/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/LeIa06D.png",ABP Ananda (akamai)
@@ -203,8 +199,6 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_6
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://127.0.0.1/",MAQ TV
 http://str24.l9574.com/517.stream/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/GPPBEiZ.png",MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?token=soheliptv01826655778
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Public_Music_Kannada_Channel_Logo.jpg/200px-Public_Music_Kannada_Channel_Logo.jpg",Public Music
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1  tvg-logo="https://i.imgur.com/alJj9sb.jpg",Boogle Bollywood
@@ -381,8 +375,6 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 #EXTINF:-1 group-title="Kids",Mr Bean Show
 https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
-#EXTINF:-1 ,#http://208.86.19.21:80/716.stream/index.m3u8
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://1.bp.blogspot.com/-LA8ncKcriPs/Xp6M6FXWJVI/AAAAAAAAAA8/RHimD6ijrnIwbh-u7FKdbeXcnGZ2H0_YACLcBGAsYHQ/s1600/abp-bengali-og.webp",Abp Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 #EXTINF:-1 ,#http://14.199.164.20:4001/play/a0mt/index.m3u8
@@ -600,8 +592,6 @@ https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8
 http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
 #EXTINF:-1 group-title="Documentery" tvg-logo="none",Aniex HD
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 group-title="Documentery" tvg-logo="https://i.postimg.cc/jdGJPwT3/Rasi-Lifestyle.png",Rasi Lifestyle
-http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://1.bp.blogspot.com/-EEOuyLzbGF4/YJ-rK76_UvI/AAAAAAAAAyA/clQ2xpHtXVYitEeunDLGMkERUDSKjjlCACLcBGAsYHQ/w200-h69/images%2B%25281%2529%25283%2529.png",BKids HD
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKy6owwX7VZiix5d6uPFApH5rerc_xlBZa4dK8IzpoaNWd3QOAgFGs0TVe&s=10",Lale
@@ -710,8 +700,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/191
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/192
 #EXTINF:-1 ,IN: Sanskar TV
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/16638
-#EXTINF:-1 ,IN: GEMINI Movies
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3422
 #EXTINF:-1 ,IN: SONY TV HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/194
 #EXTINF:-1 ,IN: SONY SAB ASIA
@@ -740,8 +728,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/167
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/168
 #EXTINF:-1 ,PK: PTV SPORTS HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/5221
-#EXTINF:-1 ,PK: Film Global
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3429
 #EXTINF:-1 ,PK: Waseb TV
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3430
 #EXTINF:-1 ,PK: Urdu 1
@@ -768,8 +754,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3427
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3446
 #EXTINF:-1 ,PK: CITY44
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3423
-#EXTINF:-1 ,PK: ARY ZAUQ
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3452
 #EXTINF:-1 ,PK: ARY NEWS HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3454
 #EXTINF:-1 ,PK: ARY DIGITAL PAK
@@ -786,8 +770,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3459
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3460
 #EXTINF:-1 ,PK: Bol News
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/9127
-#EXTINF:-1 ,PK: Geo News
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7997
 #EXTINF:-1 ,PK: Geo Tizz
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7996
 #EXTINF:-1 ,PK: Geo TV
@@ -896,8 +878,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12309
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7616
 #EXTINF:-1 ,UK: Aaj Tak
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2858
-#EXTINF:-1 ,UK: AL Jazeera HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74142
 #EXTINF:-1 ,UK: Alibi
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/933
 #EXTINF:-1 ,UK: AMC From BT
@@ -912,8 +892,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74145
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2850
 #EXTINF:-1 ,UK: B4U Music
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2853
-#EXTINF:-1 ,UK: BET
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7618
 #EXTINF:-1 ,UK: Bloomberg
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12513
 #EXTINF:-1 ,UK: Boomerang
@@ -998,8 +976,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/931
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2237
 #EXTINF:-1 ,UK: HGTV
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74171
-#EXTINF:-1 ,UK: History HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2236
 #EXTINF:-1 ,UK: Home Health
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12503
 #EXTINF:-1 ,UK: Horror Channel
@@ -1094,8 +1070,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1631
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74217
 #EXTINF:-1 ,UK: Rishtey
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2843
-#EXTINF:-1 ,UK: RT Documentary HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/20570
 #EXTINF:-1 ,UK: RTE 2 HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12492
 #EXTINF:-1 ,UK: RTE News Now
@@ -1128,8 +1102,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/261
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/254
 #EXTINF:-1 ,UK: Sky Movies Showcase
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/269
-#EXTINF:-1 ,UK: Sky Movies Thriller
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/270
 #EXTINF:-1 ,UK: Sky News
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/930
 #EXTINF:-1 ,UK: Sky One
@@ -1378,8 +1350,6 @@ http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
 http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg",Kalaignar (576p)
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Seithigal.jpeg/revision/latest/scale-to-width-down/260?cb=20191224114931",Kalaignar Seithikal (1080p) [Offline]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=taLsR3aC2vw
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/qWOnWhQ.png",Kalaignar Seithikal (576p) [Offline]
 http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
 #EXTINF:-1 group-title="Comedy" tvg-logo="https://i.imgur.com/bqXRXaZ.png",Kalaignar Sirippoli (576p)
@@ -1604,8 +1574,6 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943&checkedby:ahlakid.com
 #EXTINF:-1 group-title="Sport" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true",ahlakid.com - Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8?checkedby:ahlakid.com
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/6h10JDk.png",ahlakid.com - EDGESport (1080p)
-https://csm-e-stv.tls1.yospace.com/csm/live/195300285.m3u8?checkedby:ahlakid.com
 #EXTINF:-1 group-title="Sport" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",ahlakid.com - EPG : TV25.8 Untamed Sports TV
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8?checkedby:ahlakid.com
 #EXTINF:-1 group-title="Sport" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d2f4c46818164091e1fd4",ahlakid.com - ESR eSports Network
