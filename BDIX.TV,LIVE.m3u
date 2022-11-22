@@ -1,4 +1,68 @@
 #EXTM3U
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/%D8%B4%D8%A8%D9%83%D8%A9_%D8%A7%D9%84%D9%85%D8%AC%D8%AF.png/220px-%D8%B4%D8%A8%D9%83%D8%A9_%D8%A7%D9%84%D9%85%D8%AC%D8%AF.png" ,Quran TV HD
+http://172.16.29.250/hls/qurqntv.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" ,Nazmul WI-FI ZONE
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi Tv HD
+http://172.16.29.28/hls/sports3.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" ,T sports HD
+http://172.16.29.250/hls/t-sports.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" ,Gazi Tv HD
+http://172.16.29.250/hls/Gazi-TV.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Sony_six_logo.png/220px-Sony_six_logo.png" ,Sony Six HD
+http://172.16.29.250/hls/sonysix.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Star_Sports_Select_1.jpg/revision/latest?cb=20180806112549" ,Star sports selection 1 HD
+http://172.16.29.250/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://dl7.wapkizfile.info/download/7726774b295c4a6ad408cdfebf45df9a/bbc079416aee588adb5f87522b0e20f9/net4wap+wapkiz+com/Star%20Sports%20Select%202%20HD.jpg" ,Star sports selection 2 HD
+http://172.16.29.250/hls/select2.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://e7.pngegg.com/pngimages/153/569/png-clipart-indian-premier-league-star-sports-3-sony-ten-streaming-media-urdu-gazals-television-text.png" ,Star sports 1 HD
+http://172.16.29.250/hls/starsports1hd.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/250px-Ten_Sports_Logo.png" ,Ten Sports HD
+http://172.16.29.250/hls/ten.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5q7gn61643398883.png" ,Sony Ten 2 HD
+http://172.16.29.250/hls/sonyten2.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/200px-Zee_Bangla_New_Logo.jpg" ,Zee Bangla HD
+http://172.16.29.250/hls/zeebanglahd.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" ,Star Jalsha HD
+http://172.16.29.250/hls/starjalsha.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Zee_Bangla_Cinema_Logo.jpg/250px-Zee_Bangla_Cinema_Logo.jpg" ,Zee Bangla Cinema
+http://172.16.29.250/hls/zee-bangla-cinema.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://banner2.cleanpng.com/20180623/qf/kisspng-jalsha-movies-star-jalsha-television-show-star-ind-5b2dddcfb0e485.0005089815297325597246.jpg" ,Star Jalsha Movies HD
+http://172.16.29.250/hls/jalshamovies.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" ,Colors Bangla HD
+http://172.16.29.250/hls/colorsbangla.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1646661310-1681199.png" ,Colors Bangla Cinema
+http://172.16.29.250/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Aakashaath_blue.png/revision/latest/scale-to-width-down/300?cb=20210509111354" ,Akash HD
+http://172.16.29.250/hls/akash.m3u8 
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg",Enterr10 Bangla
+http://172.16.29.250/hls/enterr10.m3u8 
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTaHAUTYpDzA_dcMQYbuLnrksnj1j7OOSABTfvw8yGxN500B3oKHTQ-VYF4VKJcvwkckXCce2xR07zMBPQWMfndV7ltOgpUuzxWbJE6wRPESIWZtFBs0t8kD3_M1QmcQDo6933femPXPIwMhKZi9Px9EjQFl2kKK15HlO97zAOLA8R_H-JTACoaWKU/w0/khushboo-Bangla-Logo.jpg" ,Khushboo HD
+http://172.16.29.250/hls/khushboo.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTaHAUTYpDzA_dcMQYbuLnrksnj1j7OOSABTfvw8yGxN500B3oKHTQ-VYF4VKJcvwkckXCce2xR07zMBPQWMfndV7ltOgpUuzxWbJE6wRPESIWZtFBs0t8kD3_M1QmcQDo6933femPXPIwMhKZi9Px9EjQFl2kKK15HlO97zAOLA8R_H-JTACoaWKU/w0/khushboo-Bangla-Logo.jpg" ,Khushboo Bangla hd
+http://172.16.29.250/hls/khushboo.m3u8 
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Sun_Bangla.png/220px-Sun_Bangla.png" ,Sun Bangla HD
+http://172.16.29.250/hls/sunbangla.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/210px-Sony_Aath_new.png" ,Sony AaTH HD
+http://172.16.29.250/hls/Sony_Aath.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/192px-Channel-i.svg.png" ,ChannelI HD
+http://172.16.29.250/hls/channeli.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" ,Masranga HD
+http://172.16.29.250/hls/masranga.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" ,Somoy HD
+http://172.16.29.250/hls/somoy.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" ,Jamuna HD
+http://172.16.29.250/hls/jamuna.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/200px-ATN_Bangla.svg.png" ,ATN Bangla HD
+http://172.16.29.250/hls/atn.m3u8.
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/120px-Banglavision.svg.png" ,BanglaVision HD
+http://172.16.29.250/hls/banglavision.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" ,Nagorik HD
+http://172.16.29.250/hls/nagorik.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Gaan_Bangla_Logo.png/220px-Gaan_Bangla_Logo.png" ,GAAN BANGLA HD
+http://172.16.29.250/hls/gb.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" ,Duranta HD
+http://172.16.29.250/hls/duranta.m3u8
 #EXTINF:-1 ,Maasranga TV
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1 ,Ekushay TV
